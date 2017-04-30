@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "484717396353",
+    "firebase_url": "https://jokesapplication-166117.firebaseio.com",
+    "project_id": "jokesapplication-166117",
+    "storage_bucket": "jokesapplication-166117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484717396353:android:5447b6c02b9b38b5",
+        "android_client_info": {
+          "package_name": "com.example.muhammedfayed.joketelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484717396353-fpg4tm28qi330l9tqkufehuodhmcnq4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrgmCwmzadusawFgL6b6Spp_LUew5zT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
